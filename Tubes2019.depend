@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556541674 source:d:\pelajaran\struktur data\tubes2019\main.cpp
+	<iostream>
+	"Tubes2019.h"
+
+1556541674 d:\pelajaran\struktur data\tubes2019\tubes2019.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1556541708 source:d:\pelajaran\struktur data\tubes2019\tubes2019.cpp
+	"Tubes2019.h"
+
